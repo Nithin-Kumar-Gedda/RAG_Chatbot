@@ -1,4 +1,4 @@
-# 🔍 DocuQuery — RAG Document Assistant
+# 🔍 Insight Engine — RAG Document Assistant
 
 A personal learning project to understand and implement a **Retrieval-Augmented Generation (RAG)** pipeline from scratch.
 
